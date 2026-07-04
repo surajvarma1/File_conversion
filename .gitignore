@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+backend/venv/
+__pycache__/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Environment variables
+.env
